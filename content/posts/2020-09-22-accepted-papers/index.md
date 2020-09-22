@@ -7,7 +7,6 @@ type: accepted-paper
 
 <hr/>
 
-## 
 <h2 style="color: #3771ad">Main conference</h2>
 
 **FULL PAPERS**
