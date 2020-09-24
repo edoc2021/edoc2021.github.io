@@ -1,10 +1,10 @@
 import React from "react"
 import Layout from "../components/layout/layout"
 import { Container } from "react-bootstrap"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 
 
-class CallPaper extends React.Component {
+class ImportantDates extends React.Component {
 
   render() {
 
@@ -13,7 +13,8 @@ class CallPaper extends React.Component {
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Call for Papers</h1>
+          <h1 style={{ color: "#2c4f90" }}>Important Dates</h1>
+
           <div
             dangerouslySetInnerHTML={{
               __html: post.html || ""
@@ -27,11 +28,11 @@ class CallPaper extends React.Component {
 
 }
 
-export default CallPaper
+export default ImportantDates
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "call-paper"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "important-dates"}}) {
       id
       html
     }

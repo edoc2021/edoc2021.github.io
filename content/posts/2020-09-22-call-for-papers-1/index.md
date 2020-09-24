@@ -1,8 +1,8 @@
 ---
 title: 'Call for paper'
 date: '2020-09-22T22:12:03.284Z'
-path: '/call-paper/'
-type: call-paper
+path: '/call-papers/'
+type: call-papers
 ---
 
 IEEE EDOC 2020 is the twenty-fourth conference in a series that provides the key forum for researchers and practitioners in the field of enterprise computing. EDOC conferences address the full range of models, methodologies, and engineering technologies contributing to intra- and inter-enterprise software application systems. Since 1997, EDOC has brought together leading computer scientists, software engineers, IT decision makers, enterprise architects, solution designers, and practitioners to discuss enterprise computing challenges, models and solutions from the perspectives of academia, industry, and government. The IEEE EDOC conference series emphasizes a holistic view on enterprise applications engineering and management, fostering integrated approaches that address and relate business processes, people, software, and technology. EDOC’20 welcomes high quality scientific submissions as well as experience papers on enterprise computing from industry. Expert panel discussions and keynotes will address current topics and issues in this domain.

@@ -24,15 +24,15 @@ const Navibar = ({ sticky, location, title }) => {
                   <NavDropdown.Item href="/accepted-papers">Accepted papers</NavDropdown.Item>
                 </HoverDropdown>
                 <HoverDropdown href="" title="Conference" id="collasible-nav-dropdown-2">
-                  <NavDropdown.Item as={Link} to="/call-paper">Call for Papers</NavDropdown.Item>
+                  <NavDropdown.Item as={Link} to="/call-papers">Call for Papers</NavDropdown.Item>
                   <NavDropdown.Item href="/committees">Committees</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/2.3">Important Dates</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/2.4">Previous EDOCs</NavDropdown.Item>
+                  <NavDropdown.Item href="/important-dates">Important Dates</NavDropdown.Item>
+                  <NavDropdown.Item href="http://www.ieee-edoc.org/">Previous EDOCs</NavDropdown.Item>
                 </HoverDropdown>
                 <HoverDropdown title="Workshops, Demos, Doctoral Consortium" id="collasible-nav-dropdown-3">
-                  <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+                  <NavDropdown.Item href="/workshops">Workshops</NavDropdown.Item>
+                  <NavDropdown.Item href="/call-demos">Call for Demos</NavDropdown.Item>
+                  <NavDropdown.Item href="#action/3.3">Doctoral Consortium</NavDropdown.Item>
                   <NavDropdown.Divider />
                   <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
                 </HoverDropdown>

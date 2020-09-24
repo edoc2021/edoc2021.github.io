@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout/layout"
 import { Container } from "react-bootstrap"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 
 
 class CallPaper extends React.Component {

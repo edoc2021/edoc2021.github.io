@@ -1,6 +1,5 @@
 import React from "react"
 import { NavDropdown } from "react-bootstrap"
-import { navigate } from "gatsby"
 
 class HoverDropdown extends React.Component {
 

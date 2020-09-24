@@ -16,6 +16,7 @@ class Keynote extends React.Component {
           <div className="article">
             <div className="container">
               <h1 style={{ color: "#2c4f90" }}>Keynotes</h1>
+              <hr />
               {
                 posts.edges.map((edge) => {
                   console.log(edge)

@@ -13,8 +13,8 @@ class CallPaper extends React.Component {
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Committees</h1>
-
+          <h1 style={{ color: "#2c4f90" }}>Workshops</h1>
+          <hr />
           <div
             dangerouslySetInnerHTML={{
               __html: post.html || ""
@@ -32,7 +32,7 @@ export default CallPaper
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "committees"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "workshops"}}) {
       id
       html
     }
