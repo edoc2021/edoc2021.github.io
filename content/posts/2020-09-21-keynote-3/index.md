@@ -2,7 +2,7 @@
 title: 'Modeling Language Engineering 4.0: From Design-Time to Runtime and Back Again'
 date: '2020-09-21T22:12:03.284Z'
 path: '/keynote-3/'
-authors: 'Manuel Wimmer, Johannes Kepler Universität'
+authors: 'Manuel Wimmer'
 type: keynote
 ---
 

@@ -2,7 +2,7 @@
 title: 'Why Process will be the Hottest Topic in Enterprise Computing in the 2020ies'
 date: '2020-09-21T22:12:03.284Z'
 path: '/keynote-2/'
-authors: 'Gero Decker, Signavio'
+authors: 'Gero Decker'
 type: keynote
 ---
 

@@ -2,7 +2,7 @@
 title: 'The ArchiMate® Modeling Language for Enterprise Architecture: Past, Present, and Future'
 date: '2020-09-21T22:12:03.284Z'
 path: '/keynote-1/'
-authors: 'Marc Lankhorst, BiZZdesign'
+authors: 'Marc Lankhorst'
 type: keynote
 ---
 
