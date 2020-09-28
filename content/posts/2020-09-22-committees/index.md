@@ -10,27 +10,26 @@ type: committees
 <h2 style="color: #3771ad">Organizing Committee</h2>
 
 **General Chair**<br/>
-Remco Dijkman (Eindhoven University of Technology)
+Full Name (University)
 
 **Program Committee Chairs**<br/>
-Rik Eshuis (Eindhoven University of Technology)<br/>
-Alan Wee-Chung Liew (Griffith University)
+Full Name (University)<br/>
+Full Name (University)
 
 **Workshop Chairs**<br/>
-Dimka Karastoyanova (University of Groningen)<br/>
-Irina Rychkova (University Paris 1 Pantheon Sorbonne)
+Full Name (University)<br/>
+Full Name (University)
 
 **Demo Track Chairs**<br/>
-Karolin Winter (University of Vienna)<br/>
-Lam-Son Lê (HCMC Tech)
+Full Name (University)<br/>
+Full Name (University)
 
 ...
 
 <h2 style="color: #3771ad">Steering Committee</h2>
 
 **Chair**<br/>
-Georg Grossmann (University of South Australia)
-
+Full Name (University)<br/>
 ...
 
 
