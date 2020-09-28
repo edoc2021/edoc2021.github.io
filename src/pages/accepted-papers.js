@@ -14,6 +14,7 @@ class CallPaper extends React.Component {
         <Container>
           <h1 style={{ color: "#2c4f90" }}>Accepted Papers</h1>
           <div
+
             dangerouslySetInnerHTML={{
               __html: post.html || ""
             }}
