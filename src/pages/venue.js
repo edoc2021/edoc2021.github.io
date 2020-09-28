@@ -22,7 +22,6 @@ class Venue extends React.Component {
             }}
           />
         </Container>
-
       </Layout>
     )
   }
@@ -32,8 +31,8 @@ export default Venue
 
 export const query = graphql`
   query {
-    #    post: markdownRemark(frontmatter: {type: {eq: "venue"}}) {
-    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "venue"}}) {
+      #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html
     }

@@ -9,6 +9,7 @@ import headerImage from "../../../content/images/header.png"
 import logoImage from "../../../content/images/logo.png"
 import { Waypoint } from "react-waypoint"
 import { Link, navigate } from "gatsby"
+import Helmet from "react-helmet"
 
 
 class Layout extends React.Component {
@@ -36,6 +37,7 @@ class Layout extends React.Component {
   render() {
     return (
       <div>
+        <Helmet title="EDOC2021" />
         <header id="header" className="container" style={{
           position: "relative",
           top: 0
