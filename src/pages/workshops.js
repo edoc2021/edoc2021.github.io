@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap"
 import { graphql } from "gatsby"
 
 
-class CallPaper extends React.Component {
+class Workshops extends React.Component {
 
   render() {
 
@@ -28,11 +28,12 @@ class CallPaper extends React.Component {
 
 }
 
-export default CallPaper
+export default Workshops
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "workshops"}}) {
+    #    post: markdownRemark(frontmatter: {type: {eq: "workshops"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html
     }
