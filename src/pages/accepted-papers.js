@@ -31,7 +31,8 @@ export default CallPaper
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "accepted-paper"}}) {
+    #    post: markdownRemark(frontmatter: {type: {eq: "accepted-paper"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html
     }

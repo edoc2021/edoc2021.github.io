@@ -1,10 +1,12 @@
 ---
-title: 'Why Process will be the Hottest Topic in Enterprise Computing in the 2020ies'
+title: 'Keynote 2 Title'
 date: '2020-09-21T22:12:03.284Z'
 path: '/keynote-2/'
-authors: 'Gero Decker'
+authors: 'Author 2'
 type: keynote
 ---
 
-<img align="right" width="185" style="margin-left:16px;" src="https://is.ieis.tue.nl/edoc20/wp-content/uploads/2020/06/image-3-300x199.png">
-As the world is slowly recovering from the Covid-19 pandemic, many organizations are looking at the next normal, the trends and shifts that will dominate the new decade. And two things are already for sure. Customer demands will change dramatically and digital will finally take a prime seat on companies’ agendas. What does that mean for enterprise computing? What are the “first class citizens” we will most focus on? What are the techniques required to thrive in this new world? Spoiler alert: The notion of process, one of the key themes also for the EDOC conference series, will have a major role to play. Listen in to learn why.
+<img align="right" width="185" style="margin-left:16px;" src="https://raw.githubusercontent.com/edoc2021/edoc2021.github.io/dev/content/images/author.png">
+
+Nullam tincidunt libero leo, a suscipit risus convallis vitae. Quisque sit amet malesuada augue, a mollis justo. Quisque imperdiet molestie ex, nec condimentum turpis sodales vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec dictum tortor a efficitur gravida. Nullam vel dui sagittis, finibus tortor porttitor, accumsan elit. Sed lorem felis, lobortis vel magna at, consequat ultricies dolor. Vestibulum viverra eros sed nisl scelerisque malesuada. Proin pulvinar, mi nec vehicula placerat, diam est tincidunt velit, eget tristique turpis mauris nec odio. Ut eget volutpat velit, vel lobortis ligula. Sed massa leo, facilisis ac urna vitae, ullamcorper aliquam nunc. Quisque luctus at leo ut sollicitudin.
+

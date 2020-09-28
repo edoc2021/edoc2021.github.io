@@ -31,7 +31,8 @@ export default CallDemos
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "call-demos"}}) {
+    #    post: markdownRemark(frontmatter: {type: {eq: "call-demos"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html
     }

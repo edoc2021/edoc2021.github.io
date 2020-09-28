@@ -1,12 +1,13 @@
 ---
-title: 'The ArchiMate® Modeling Language for Enterprise Architecture: Past, Present, and Future'
+title: 'Keynote 1 Title'
 date: '2020-09-21T22:12:03.284Z'
 path: '/keynote-1/'
-authors: 'Marc Lankhorst'
+authors: 'Author 1'
 type: keynote
 ---
 
-<img align="right" width="185" style="margin-left:16px;" src="https://raw.githubusercontent.com/edoc2021/edoc2021.github.io/dev/content/posts/2020-09-21-keynote-1/author.png">
+<img align="right" width="185" style="margin-left:16px;" src="https://raw.githubusercontent.com/edoc2021/edoc2021.github.io/dev/content/images/author.png">
 
-In this presentation, Marc Lankhorst, who has led the team that developed the ArchiMate language since the first ideas in 2002, will discuss the history and evolution of the ArchiMate modeling language for enterprise architecture. It started out in 2002 as an applied R&D project in the Netherlands, with partners from both industry and academia. Since 2009 it is an Open Group standard, now in version 3.1. Over the years, ArchiMate has evolved into the leading enterprise architecture modeling method, with many thousands of users. In his presentation, Marc will discuss the key principles behind the design of the language that have been upheld over the course of its evolution. He will explain how the language structure was inspired by natural language, and how it evolved to cover all aspects that an enterprise architecture typically covers. Finally, he will offer his personal thoughts on possible future directions for its further development. Marc will finish his presentation with an interactive Q&A session.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras id lectus tempor, mattis dui semper, consequat metus. Sed pulvinar elit at sapien sodales feugiat. Aliquam turpis mi, ultrices at rutrum in, porttitor vel neque. Aenean venenatis ultricies tempor. Integer tincidunt lectus sit amet velit feugiat, quis tristique nisi ultricies. Donec elementum blandit vestibulum. Maecenas pulvinar a lorem at sagittis. Duis mattis libero non nulla ultricies tristique. Mauris quis ipsum vel tortor cursus placerat quis quis velit. Donec fermentum eleifend turpis nec fringilla. Praesent ut leo finibus, condimentum felis nec, bibendum nunc. Pellentesque mauris dolor, blandit ac consequat quis, finibus sed enim. Sed faucibus ante leo, eu interdum arcu condimentum at. Ut porta accumsan hendrerit.
+
 
