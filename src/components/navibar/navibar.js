@@ -10,8 +10,8 @@ const Navibar = ({ sticky, location, title }) => {
               fixed={sticky ? "top" : ""}
               style={{
                 position: sticky ? "fixed" : "absolute",
-                width: "100%"
-
+                width: "100%",
+                zIndex: 100
               }}>
         <Container>
           <Container fluid={true}>
