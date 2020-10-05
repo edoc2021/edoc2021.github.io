@@ -36,6 +36,9 @@ TBA
 **Publicity & Social Media Chair**<br/>
 TBA
 
+**Web Chair**<br/>
+Anh Vu Luong (Griffith University)
+
 **Regional Publicity Chairs**<br/>
 Joao Paulo Almeida (Federal University of Espirito Santo)<br/> 
 Georg Grossman (University of South Australia)<br/>
