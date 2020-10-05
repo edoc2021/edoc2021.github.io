@@ -10,7 +10,7 @@ type: committees
 <h2 style="color: #3771ad">Organizing Committee</h2>
 
 **General Chair**<br/>
-Alan Wee-Chung Liew (Griffith University<br/>
+Alan Wee-Chung Liew (Griffith University)<br/>
 Zoran Milosevic (Deontik/Griffith University)
 
 **Program Committee Chairs**<br/>
