@@ -5,11 +5,11 @@ path: '/call-demos/'
 type: call-demos
 ---
 
-The IEEE EDOC 2020 Demonstration Track offers an exciting and highly interactive way to present prototypes and applications in the context of enterprise computing. Prototypes and applications may originate either from research projects or from industry. Proposals for demonstrations should focus on innovative concepts or technologies that address models, methodologies, and engineering technologies contributing to intra- and inter-enterprise application systems. Authors of accepted conference papers are also invited to propose demonstrations of their work.
+The EDOC 2020 Demonstration Track offers an exciting and highly interactive way to present prototypes and applications in the context of enterprise computing. Prototypes and applications may originate either from research projects or from industry. Proposals for demonstrations should focus on innovative concepts or technologies that address models, methodologies, and engineering technologies contributing to intra- and inter-enterprise application systems. Authors of accepted conference papers are also invited to propose demonstrations of their work.
 
 <div style="font-size:18pt;">Topics of Interest</div>
 
-Areas of interest for demonstrations include all topics of the IEEE EDOC conference. Specific topics of interest include but are not limited to:
+Areas of interest for demonstrations include all topics of the EDOC conference. Specific topics of interest include but are not limited to:
 
 - Enterprise Architecture (EA) and Enterprise Service Architecture (ESA)
 - Service-Oriented Architecture (SOA)
@@ -39,7 +39,7 @@ Additionally, authors may provide a link to a short online video or screencast n
 
 Papers should be submitted electronically in PDF format via the EDOC Conference Management system hosted on EasyChair: <a style="color: black;text-decoration: underline;" href="https://easychair.org/conferences/?conf=edoc2020"><i>https://easychair.org/conferences/?conf=edoc2020</i></a> 
 
-The demonstration chairs and demo committee will review all submissions. Accepted demonstration papers are published in the workshop proceedings of the IEEE EDOC conference, which will be submitted to the IEEE Xplore® digital library. At least one presenter of each accepted demonstration must register for the conference and be in attendance to present the demonstration.
+The demonstration chairs and demo committee will review all submissions. Accepted demonstration papers are published in the workshop proceedings of the EDOC conference, which will be submitted to the Xplore® digital library. At least one presenter of each accepted demonstration must register for the conference and be in attendance to present the demonstration.
 
 A best demo award will be given to the author(s) of the highest-scoring demo based on technical merit.
 

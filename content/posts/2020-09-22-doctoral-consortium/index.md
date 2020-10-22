@@ -5,7 +5,7 @@ path: '/doctoral-consortium/'
 type: doctoral-consortium
 ---
 
-The IEEE EDOC 2020 The Doctoral Consortium (DC) is a forum of exchange organized to encourage PhD students to present their early work and to exchange with other researchers in their fields. Senior researchers will provide feedback and advice on the work and advice on managing research projects. The Doctoral Consortium is also a place to establish a social network with peers in the field of the conference.
+The EDOC 2020 The Doctoral Consortium (DC) is a forum of exchange organized to encourage PhD students to present their early work and to exchange with other researchers in their fields. Senior researchers will provide feedback and advice on the work and advice on managing research projects. The Doctoral Consortium is also a place to establish a social network with peers in the field of the conference.
 
 The technical scope of the Doctoral Consortium is that of EDOC 2020, as described by the list of the topics in the EDOC 2020 call for papers. We encourage submissions from PhD students at an early stage of their research project, i.e., typically in their first or second year. A submission to the DC should clearly describe motivation, goal, expected results, and the research approach taken. Participants will be expected to actively discuss and argue about their work by reading each other’s work prior to the DC, giving a presentation at the Doctoral Consortium, debating together, and listening to senior researchers’ feedback.
 

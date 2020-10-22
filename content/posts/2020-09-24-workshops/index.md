@@ -15,7 +15,7 @@ The following workshops will be organised together with EDOC 2020:
 
 Please find more information on these workshops below.
 
-All papers that are accepted for the workshops will be published by IEEE Press.
+All papers that are accepted for the workshops will be published by Press.
 
 <div style="font-size:18pt;">Privacy and Security in Enterprise Modeling (PriSEM)</div>
 The goal of PriSEM’20 is to bring together researchers and practitioners to discuss theoretical and practical problems and solutions in a rapidly maturing domain of enterprise security and privacy. The integration of security and privacy aspects in enterprise models is a central theme of this workshop. We strongly encourage the submissions reporting a synergy of innovative research and best practices in the area of organizational privacy and security management, modeling and architecture, etc.
