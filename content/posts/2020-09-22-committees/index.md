@@ -19,10 +19,7 @@ Giancarlo Guizzardi (Free University of Bozen-Bolzano)
 
 **Workshop Chairs**<br/>
 Dimka Karastoyanova (University of Groningen)<br/>
-TBA
-
-**Workshop Co-Chair**<br/>
-Luise Pufahl (TU-berlin, Germany)
+Luise Pufahl (TU-berlin, Germany) 
 
 **Demo Track Chairs**<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
@@ -31,16 +28,13 @@ Karolin Winter (University of Vienna)
 
 **Doctoral Consortium Chairs**<br/>
 Fethi Rabhi, (University of New South Wales, Australia)<br/>
-Said Assar (Institut Mines Telecom Business School)<br/>
-TBA
+Said Assar (Institut Mines Telecom Business School)
 
 **Organisation Chair**<br/>
-Sharmistha Dey (Griffith University)</br>
-TBA
+Sharmistha Dey (Griffith University)
 
 **Publicity Chair**<br/>
-Joao Paulo Almeida (Federal University of Espirito Santo, Brazil)<br/>
-TBA
+Joao Paulo Almeida (Federal University of Espirito Santo, Brazil)
 
 **Web Chair**<br/>
 Anh Vu Luong (Griffith University)
