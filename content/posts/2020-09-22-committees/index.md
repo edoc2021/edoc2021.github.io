@@ -14,8 +14,8 @@ Alan Wee-Chung Liew (Griffith University)<br/>
 Zoran Milosevic (Deontik/Griffith University)
 
 **Program Committee Chairs**<br/>
-Peter Bernus (Griffith University)<br/>
-Giancarlo Guizzardi (Free University of Bozen-Bolzano)
+Giancarlo Guizzardi (Free University of Bozen-Bolzano)<br/>
+Peter Bernus (Griffith University)
 
 **Workshop Chairs**<br/>
 Dimka Karastoyanova (University of Groningen)<br/>
@@ -23,8 +23,8 @@ Luise Pufahl (TU-berlin, Germany)
 
 **Demo Track Chairs**<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
-Keith Duddy (S23M, Australia)<br/>
-Karolin Winter (University of Vienna)
+Karolin Winter (University of Vienna)<br/>
+Keith Duddy (S23M, Australia)
 
 **Doctoral Consortium Chairs**<br/>
 Fethi Rabhi, (University of New South Wales, Australia)<br/>
@@ -40,12 +40,12 @@ Joao Paulo Almeida (Federal University of Espirito Santo, Brazil)
 Anh Vu Luong (Griffith University)
 
 **Regional Publicity Chairs**<br/>
-Joao Paulo Almeida (Federal University of Espirito Santo)<br/> 
-Georg Grossman (University of South Australia)<br/>
-Sylvain Hallé (Université du Québec à Chicoutimi)<br/>
-Karolin Winter (University of Vienna)<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
-Lam-Son Lê (HCMC Tech)
+Georg Grossman (University of South Australia)<br/>
+Joao Paulo Almeida (Federal University of Espirito Santo)<br/> 
+Karolin Winter (University of Vienna)<br/>
+Lam-Son Lê (HCMC Tech)<br/>
+Sylvain Hallé (Université du Québec à Chicoutimi)
 
 <h2 style="color: #3771ad">Steering Committee</h2>
 
@@ -54,8 +54,8 @@ Georg Grossmann (University of South Australia)<br/>
 
 **Members**<br/>
 Colin Atkinson (University of Mannheim)<br/>
-Remco Dijkman (Eindhoven University of Technology)<br/>
 Marten van Sinderen (University of Twente)<br/>
+Remco Dijkman (Eindhoven University of Technology)<br/>
 Robert Lagerström (KTH Royal Institute of Technology)<br/>
 Selmin Nurcan (University Paris 1 Pantheon Sorbonne)<br/>
 Stefanie Rinderle-Ma (University of Vienna)<br/>
@@ -68,6 +68,8 @@ Alexander Knapp (Universität Augsburg)<br/>
 Alfred Zimmermann (Reutlingen University)<br/>
 Amin Beheshti (Macquarie University)<br/>
 Andreas L Opdahl (University of Bergen)<br/>
+Andrew Berry (Resmed, Australia)<br/>
+Andy Bond (QUT/Genie)<br/>
 Aniruddha Gokhale (Vanderbilt University)<br/>
 Artem Polyvyanyy (The University of Melbourne)<br/>
 Benjamin Yen (University of Hong Kong, HK)<br/>
@@ -77,6 +79,7 @@ Claudio Di Ciccio (Sapienza University of Rome)<br/>
 Colin Atkinson (University of Mannheim)<br/>
 Dana Petcu (West University of Timisoara)<br/>
 Dimka Karastoyanova (University of Groningen)<br/>
+Fethi Rabhi, (University of New South Wales, Australia)<br/>
 Flavia Santoro (UERJ)<br/>
 Florian Matthes (Technical University of Munich)<br/>
 Frank Leymann (University of Stuttgart)<br/>
@@ -93,14 +96,16 @@ Jochen Küster (FH Bielefeld)<br/>
 José Raúl Romero (University of Cordoba)<br/>
 Julius Köpke (Alpen-Adria-Universität Klagenfurt Institute for Informatics Systems)<br/>
 Jun Han (Swinburne University of Technology)<br/>
+Keith Duddy (S23M, Australia)<br/>
 Lam Son Lê (HCMC Tech)<br/>
 Luís Ferreira Pires (University of Twente)<br/>
-Maria-Eugenia Iacob (University of Twente)<br/>
 Maria Teresa Gómez López (University of Seville)<br/>
+Maria-Eugenia Iacob (University of Twente)<br/>
 Marten van Sinderen (University of Twente)<br/>
 Mathias Weske (HPI, University of Potsdam)<br/>
 Michael Schrefl (Johannes Kepler University Linz)<br/>
 Michael Sheng (Macquarie University)<br/>
+Nhan (Nathan) Tri Luong (Google, UK)<br/>
 Nicolas Herbaut (University Paris 1 Pantheon Sorbonne)<br/>
 Pankaj Telang (SAS Institute Inc.)<br/>
 Peter F. Linington (University of Kent)<br/>
@@ -111,6 +116,7 @@ Robert Lagerström (KTH Royal Institute of Technology)<br/>
 Ruth Breu (Research Group Quality Engineering)<br/>
 Sagar Sunkle (Tata Consultancy Services)<br/>
 Schahram Dustdar (Vienna University of Technology)<br/>
+Simon Hacks (KTH, Sweden)<br/>
 Stefan Schulte (Vienna University of Technology)<br/>
 Stefan Tai (TU Berlin)<br/>
 Stefanie Rinderle-Ma (University of Vienna)<br/>
@@ -119,30 +125,24 @@ Ulrik Franke (RISE)<br/>
 Uwe Zdun (University of Vienna)<br/>
 Vinay Kulkarni (Tata Consultancy Services Research)<br/>
 Wolfgang Mayer (University of South Australia)<br/>
-Zoran Milosevic (Deontik)<br/>
-Fethi Rabhi, (University of New South Wales, Australia)<br/>
 Yigal Hoffner (Shenkar College of Engineering and Design, Israel)<br/>
-Andrew Berry (Resmed, Australia)<br/>
-Nhan (Nathan) Tri Luong (Google, UK)<br/>
-Andy Bond (QUT/Genie)<br/>
-Simon Hacks (KTH, Sweden)<br/>
-Keith Duddy (S23M, Australia)
+Zoran Milosevic (Deontik)
 
 <h2 style="color: #3771ad">Demo Program Committee</h2>
 
-Joao Paulo Almeida (Federal University of Espirito Santo, Brazil)<br/>
 Amin Beheshti (Macquarie University, Australia)<br/>
-Ruth Breu (Research Group Quality Engineering, Austria)<br/>
-Florian Daniel (Politecnico di Milano, Italy)<br/>
+Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
+Daniel Ritter (SAP Germany, Germany)<br/>
+Florian Daniel (Politecnico di Milano, Italy)<br/>
+Florian Matthes (Technical University of Munich, Germany)<br/>
+Georg Grossmann (University of South Australia, Australia)<br/>
+Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
+Jens Gulden (University of Duisburg-Essen, Germany)<br/>
+Joao Paulo Almeida (Federal University of Espirito Santo, Brazil)<br/>
 Johann Eder (University of Klagenfurt, Austria)<br/>
 Luis Ferreira Pires (University of Twente, Netherlands)<br/>
-Georg Grossmann (University of South Australia, Australia)<br/>
-Jens Gulden (University of Duisburg-Essen, Germany)<br/>
-Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
-Florian Matthes (Technical University of Munich, Germany)<br/>
 Marco Montali (Free University of Bozen-Bolzano, Italy)<br/>
-Daniel Ritter (SAP Germany, Germany)<br/>
 Michael Sheng (Macquarie University, Australia)<br/>
-Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
-Selmin Nurcan (Université Paris 1 Panthéon-Sorbonne, France)<br/>
+Ruth Breu (Research Group Quality Engineering, Austria)<br/>
+Selmin Nurcan (Université Paris 1 Panthéon-Sorbonne, France)

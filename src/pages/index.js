@@ -13,7 +13,6 @@ class IndexPage extends React.Component {
           <div className="container">
             <h1 style={{ color: "#2c4f90" }}>EDOC2021</h1>
             <div
-              // className="content text-justify"
               dangerouslySetInnerHTML={{
                 __html: posts.edges[0].node.html || ""
               }}
