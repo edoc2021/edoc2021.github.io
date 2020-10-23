@@ -7,11 +7,8 @@ class IndexPage extends React.Component {
   render() {
     const { posts } = this.props.data
 
-    console.log(posts)
-
     return (
       <Layout location={this.props.location}>
-
         <div className="article">
           <div className="container">
             <h1 style={{ color: "#2c4f90" }}>EDOC2021</h1>
