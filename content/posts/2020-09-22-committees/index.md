@@ -30,14 +30,15 @@ Keith Duddy (S23M, Australia)<br/>
 Karolin Winter (University of Vienna)
 
 **Doctoral Consortium Chairs**<br/>
-Bernd Neumayr (Johannes Kepler Universität Linz)<br/>
+Fethi Rabhi, (University of New South Wales, Australia)<br/>
 Said Assar (Institut Mines Telecom Business School)<br/>
 TBA
 
 **Organisation Chair**<br/>
 TBA
 
-**Publicity & Social Media Chair**<br/>
+**Publicity Chair**<br/>
+Joao Paulo Almeida (Federal University of Espirito Santo, Brazil)<br/>
 TBA
 
 **Web Chair**<br/>
