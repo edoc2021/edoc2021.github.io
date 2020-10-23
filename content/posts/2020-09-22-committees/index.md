@@ -21,9 +21,13 @@ Giancarlo Guizzardi (Free University of Bozen-Bolzano)
 Dimka Karastoyanova (University of Groningen)<br/>
 TBA
 
+**Workshop Co-Chair**<br/>
+Luise Pufahl (TU-berlin, Germany)
+
 **Demo Track Chairs**<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
-Lam-Son Lê (HCMC Tech)
+Keith Duddy (S23M, Australia)<br/>
+Karolin Winter (University of Vienna)
 
 **Doctoral Consortium Chairs**<br/>
 Bernd Neumayr (Johannes Kepler Universität Linz)<br/>
@@ -44,7 +48,8 @@ Joao Paulo Almeida (Federal University of Espirito Santo)<br/>
 Georg Grossman (University of South Australia)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi)<br/>
 Karolin Winter (University of Vienna)<br/>
-Benjamin Yen (University of Hong Kong, Hong Kong)
+Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
+Lam-Son Lê (HCMC Tech)
 
 <h2 style="color: #3771ad">Steering Committee</h2>
 
