@@ -35,6 +35,7 @@ Said Assar (Institut Mines Telecom Business School)<br/>
 TBA
 
 **Organisation Chair**<br/>
+Sharmistha Dey (Griffith University)
 TBA
 
 **Publicity Chair**<br/>
