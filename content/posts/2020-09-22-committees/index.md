@@ -118,7 +118,14 @@ Ulrik Franke (RISE)<br/>
 Uwe Zdun (University of Vienna)<br/>
 Vinay Kulkarni (Tata Consultancy Services Research)<br/>
 Wolfgang Mayer (University of South Australia)<br/>
-Zoran Milosevic (Deontik)
+Zoran Milosevic (Deontik)<br/>
+Fethi Rabhi, (University of New South Wales, Australia)<br/>
+Yigal Hoffner (Shenkar College of Engineering and Design, Israel)<br/>
+Andrew Berry (Resmed, Australia)<br/>
+Nhan (Nathan) Tri Luong (Google, UK)<br/>
+Andy Bond (QUT/Genie)<br/>
+Simon Hacks (KTH, Sweden)<br/>
+Keith Duddy (S23M, Australia)
 
 <h2 style="color: #3771ad">Demo Program Committee</h2>
 
