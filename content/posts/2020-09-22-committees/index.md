@@ -59,7 +59,7 @@ Georg Grossmann (University of South Australia)<br/>
 
 **Members**<br/>
 Colin Atkinson (University of Mannheim)<br/>
-Manfred Reichert (University of Ulm)<br/>
+Remco Dijkman (Eindhoven University of Technology)<br/>
 Marten van Sinderen (University of Twente)<br/>
 Robert Lagerström (KTH Royal Institute of Technology)<br/>
 Selmin Nurcan (University Paris 1 Pantheon Sorbonne)<br/>
