@@ -10,7 +10,7 @@ type: committees
 <h2 style="color: #3771ad">Organizing Committee</h2>
 
 **General Chair**<br/>
-Alan Wee-Chung Liew (Griffith University)<br/>
+Alan Wee-Chung Liew (Griffith University, Australia)<br/>
 Zoran Milosevic (Deontik/Griffith University)
 
 **Program Committee Chairs**<br/>
@@ -34,7 +34,7 @@ Said Assar (Institut Mines Telecom Business School)
 Sharmistha Dey (Griffith University)
 
 **Publicity Chair**<br/>
-Joao Paulo Almeida (Federal University of Espirito Santo, Brazil)
+João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)
 
 **Web Chair**<br/>
 Anh Vu Luong (Griffith University)
@@ -42,7 +42,6 @@ Anh Vu Luong (Griffith University)
 **Regional Publicity Chairs**<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
 Georg Grossman (University of South Australia)<br/>
-Joao Paulo Almeida (Federal University of Espirito Santo)<br/> 
 Karolin Winter (University of Vienna)<br/>
 Lam-Son Lê (HCMC Tech)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi)
@@ -91,7 +90,7 @@ Henderik Proper (Luxembourg Institute of Science and Technology)<br/>
 Hye-Young Paik (The University of New South Wales)<br/>
 Irina Rychkova (University Paris 1 Pantheon Sorbonne)<br/>
 Jan Øyvind Aagedal (Equatex)<br/>
-Joao Paulo Almeida (Federal University of Espirito Santo)<br/>
+João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
 Jochen Küster (FH Bielefeld)<br/>
 José Raúl Romero (University of Cordoba)<br/>
 Julius Köpke (Alpen-Adria-Universität Klagenfurt Institute for Informatics Systems)<br/>
@@ -139,7 +138,7 @@ Florian Matthes (Technical University of Munich, Germany)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
 Jens Gulden (University of Duisburg-Essen, Germany)<br/>
-Joao Paulo Almeida (Federal University of Espirito Santo, Brazil)<br/>
+João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
 Johann Eder (University of Klagenfurt, Austria)<br/>
 Luis Ferreira Pires (University of Twente, Netherlands)<br/>
 Marco Montali (Free University of Bozen-Bolzano, Italy)<br/>
