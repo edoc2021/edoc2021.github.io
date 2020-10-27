@@ -33,11 +33,11 @@ Said Assar (Institut Mines Telecom Business School, France)
 **Organisation Chair**<br/>
 Sharmistha Dey (Griffith University, Australia)
 
-**Publicity Chair**<br/>
-João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)
-
 **Web Chair**<br/>
 Anh Vu Luong (Griffith University, Australia)
+
+**Publicity Chair**<br/>
+João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)
 
 **Regional Publicity Chairs**<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
