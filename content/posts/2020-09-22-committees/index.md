@@ -19,7 +19,7 @@ Peter Bernus (Griffith University, Australia)
 
 **Workshop Chairs**<br/>
 Dimka Karastoyanova (University of Groningen, Netherlands)<br/>
-Luise Pufahl (TU-berlin, Germany) 
+Luise Pufahl (TU Berlin, Germany) 
 
 **Demo Track Chairs**<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
@@ -41,7 +41,7 @@ Anh Vu Luong (Griffith University, Australia)
 
 **Regional Publicity Chairs**<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
-Georg Grossman (University of South Australia, Australian)<br/>
+Georg Grossman (University of South Australia, Australia)<br/>
 Karolin Winter (University of Vienna, Austria)<br/>
 Lam-Son Lê (HCMC Tech, Vietnam)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)
@@ -59,7 +59,7 @@ Robert Lagerström (KTH Royal Institute of Technology, Sweden)<br/>
 Selmin Nurcan (University Paris 1 Pantheon Sorbonne, France)<br/>
 Stefanie Rinderle-Ma (University of Vienna, Austria)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
-Zoran Milosevic (Deontik, Australia))
+Zoran Milosevic (Deontik, Australia)
 
 <h2 style="color: #3771ad">Program Committee</h2>
 
@@ -85,11 +85,11 @@ Frank Leymann (University of Stuttgart, Germany)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
 Giuseppe Di Lucca (University of Sannio, Italy)<br/>
-Guido Governatori (CSIRO, Australian)<br/>
+Guido Governatori (CSIRO, Australia)<br/>
 Henderik Proper (Luxembourg Institute of Science and Technology, Luxembourg)<br/>
-Hye-Young Paik (The University of New South Wales, Australian)<br/>
+Hye-Young Paik (The University of New South Wales, Australia)<br/>
 Irina Rychkova (University Paris 1 Pantheon Sorbonne, University)<br/>
-Jan Øyvind Aagedal (Equatex, Switzerland)<br/>
+Jan Øyvind Aagedal (Equatex, Norway)<br/>
 João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
 Jochen Küster (FH Bielefeld, Germany)<br/>
 José Raúl Romero (University of Cordoba, Spain)<br/>
