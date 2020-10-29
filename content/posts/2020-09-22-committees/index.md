@@ -133,7 +133,6 @@ Amin Beheshti (Macquarie University, Australia)<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
 Daniel Ritter (SAP Germany, Germany)<br/>
-Florian Daniel (Politecnico di Milano, Italy)<br/>
 Florian Matthes (Technical University of Munich, Germany)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
