@@ -53,6 +53,7 @@ Georg Grossmann (University of South Australia, Australia)<br/>
 
 **Members**<br/>
 Colin Atkinson (University of Mannheim, Germany)<br/>
+João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
 Marten van Sinderen (University of Twente, Netherlands)<br/>
 Remco Dijkman (Eindhoven University of Technology, Netherlands)<br/>
 Robert Lagerström (KTH Royal Institute of Technology, Sweden)<br/>
