@@ -5,7 +5,7 @@ import Footer from "../footer/footer"
 
 import "../../scss/gatstrap.scss"
 import { Col, Image, Row } from "react-bootstrap"
-import headerImage from "../../../content/images/header.png"
+import headerImage from "../../../content/images/gc_header.png"
 import logoImage from "../../../content/images/logo.png"
 import { Waypoint } from "react-waypoint"
 import { Link, navigate } from "gatsby"
@@ -38,23 +38,21 @@ class Layout extends React.Component {
     return (
       <div>
         <Helmet title="EDOC2021" />
+        <span className="logo"><Image src={headerImage} alt="" fluid /></span>
         <header id="header" className="container" style={{
           position: "relative",
           top: 0
         }}>
-          <span className="logo"><Image src={headerImage} alt="" fluid /></span>
           <Row style={{
             position: "absolute",
             bottom: 0,
             width: "100%",
             height: "90%"
-            // backgroundColor: "red"
           }}>
-
             <Col>
               <Link to="/">
-                <Image
-                  src={logoImage} alt="" fluid />
+                {/*<Image*/}
+                {/*  src={logoImage} alt="" fluid />*/}
               </Link>
             </Col>
             <Col />
