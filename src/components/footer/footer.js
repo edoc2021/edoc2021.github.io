@@ -11,6 +11,7 @@ const Footer = ({ author, title }) => {
           <Link to="https://www.gatsbyjs.com/">
             <br />
             {/*<strong>By {author}</strong>*/}
+            Images courtesy of Gold Coast Tourism<br/>
             <strong>Powered by @<u>Gatsby</u></strong>
           </Link>
         </p>
