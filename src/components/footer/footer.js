@@ -12,7 +12,9 @@ const Footer = ({ author, title }) => {
             <br />
             {/*<strong>By {author}</strong>*/}
             <strong>Powered by @<u>Gatsby</u></strong><br/>
-            <small>Images courtesy of Gold Coast Tourism</small>
+          </Link>
+          <Link to="https://www.destinationgoldcoast.com/">
+            <small>Images courtesy of <u>Gold Coast Tourism</u></small>
           </Link>
         </p>
       </div>
