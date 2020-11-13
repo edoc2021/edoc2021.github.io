@@ -14,7 +14,7 @@ class ImportantDates extends React.Component {
       <Layout location={this.props.location}>
         <Container>
           <h1 style={{ color: "#2c4f90" }}>Important Dates</h1>
-
+          <hr />
           <div
             dangerouslySetInnerHTML={{
               __html: post.html || ""
