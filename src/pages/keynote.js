@@ -36,7 +36,7 @@ class Keynote extends React.Component {
                       {/*      dateTime={frontmatter?.date}>{frontmatter?.date}</time>*/}
                       {
                         authors.map((author, i) => {
-                          return <Badge style={{ marginRight: 4 }}
+                          return <Badge style={{ marginRight: 4, fontSize: "16px" }}
                                         variant="secondary" key={i}>{author}</Badge>
                         })
                       }

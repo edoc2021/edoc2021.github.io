@@ -1,5 +1,5 @@
 ---
-title: 'Title to be announced shortly'
+title: 'Title and abstract to be announced shortly'
 date: '2020-09-21T22:12:03.284Z'
 path: '/keynote-2/'
 authors: 'Richard Mark Soley'
