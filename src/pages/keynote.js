@@ -21,7 +21,8 @@ class Keynote extends React.Component {
                 It is our honour to announce that our first two keynotes will be Dr. Richard Soley and Dr. Clemens
                 Szyperski. They plan to present their experience with and future thoughts about industry 4.0 themes, in
                 particular highly scalable streaming analytics and digital twins. Richard and Clemens were involved in
-                the inaugural EDOC'97 event and it is our particular pleasure to welcome them back to EDOC community.
+                the inaugural EDOC'97 event and it is our particular pleasure to welcome them back for the EDOC's 25th
+                anniversary.
               </p>
               {
                 posts.edges.map((edge) => {
