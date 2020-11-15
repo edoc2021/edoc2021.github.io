@@ -1,5 +1,5 @@
 ---
-title: 'Clemens Szyperski'
+title: 'Title to be announced shortly'
 date: '2020-11-15T13:12:03.284Z'
 path: '/keynote-1/'
 authors: 'Clemens Szyperski'

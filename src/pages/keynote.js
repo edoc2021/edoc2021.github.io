@@ -32,8 +32,8 @@ class Keynote extends React.Component {
                       // className="content text-justify"
                     >
                       <h2>{frontmatter.title}</h2>
-                      <time style={{ marginRight: 10 }}
-                            dateTime={frontmatter?.date}>{frontmatter?.date}</time>
+                      {/*<time style={{ marginRight: 10 }}*/}
+                      {/*      dateTime={frontmatter?.date}>{frontmatter?.date}</time>*/}
                       {
                         authors.map((author, i) => {
                           return <Badge style={{ marginRight: 4 }}
