@@ -17,6 +17,9 @@ class Keynote extends React.Component {
             <div className="container">
               <h1 style={{ color: "#2c4f90" }}>Keynotes</h1>
               <hr />
+              <p style={{ fontSize: "18px"}}>
+                It is our honour to announce that our first two keynotes will be Dr. Richard Soley and Dr. Clemens Szyperski and that they plan to present their experience with and future thoughts about industry 4.0 themes. Richard and Clemens were involved in the inaugural EDOC'97 event and it is our particular pleasure to welcome them back to EDOC community.
+              </p>
               {
                 posts.edges.map((edge) => {
                   console.log(edge)
