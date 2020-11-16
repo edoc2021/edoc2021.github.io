@@ -3,11 +3,9 @@ import Layout from "../../components/layout/layout"
 import { Container } from "react-bootstrap"
 import { graphql } from "gatsby"
 
-
 class CallDemos extends React.Component {
 
   render() {
-
     const post = this.props.data.post
     console.log(post)
 
