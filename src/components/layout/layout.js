@@ -40,7 +40,7 @@ class Layout extends React.Component {
           query {
             fileName: file(relativePath: { eq: "gc_header.jpg" }) {
               childImageSharp {
-                fluid(maxWidth: 2500, quality: 100) {
+                fluid(maxWidth: 2500, quality: 80) {
                   ...GatsbyImageSharpFluid
                 }
               }
