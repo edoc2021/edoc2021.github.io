@@ -32,8 +32,8 @@ export default DoctoralConsortium
 
 export const query = graphql`
   query {
-    #    post: markdownRemark(frontmatter: {type: {eq: "doctoral-consortium"}}) {
-    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "doctoral-consortium"}}) {
+      #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html
     }
