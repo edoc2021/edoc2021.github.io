@@ -7,10 +7,10 @@ type: important-dates
 
 <div style="font-size:18pt;">Conference</div>
 
-Full Paper submission: 31 May 2021
-Notification of Acceptance: 30 June 2021
-Camera Ready Paper submission 31 August 2021
-Author Conference Registration: 31 August 2021
+- Full Paper submission: 31 May 2021
+- Notification of Acceptance: 30 June 2021
+- Camera Ready Paper submission 31 August 2021
+- Author Conference Registration: 31 August 2021
 
 <div style="font-size:18pt;">Workshops</div>
 
