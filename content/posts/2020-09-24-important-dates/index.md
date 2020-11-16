@@ -7,12 +7,10 @@ type: important-dates
 
 <div style="font-size:18pt;">Conference</div>
 
-- Conference papers abstract submissions: 
-- Conference full papers submissions: 
-- Conference papers acceptance notifications: 
-- Conference camera ready papers due: 
-- Author registration: 
-- Conference: 
+Full Paper submission: 31 May 2021
+Notification of Acceptance: 30 June 2021
+Camera Ready Paper submission 31 August 2021
+Author Conference Registration: 31 August 2021
 
 <div style="font-size:18pt;">Workshops</div>
 
@@ -34,8 +32,7 @@ type: important-dates
 
 <div style="font-size:18pt;">Doctoral consortium</div>
 
-- Doctoral papers submissions: 
-- Doctoral papers acceptance notification: 
-- Doctoral papers camera-ready papers due: 
-- Author registration:
-- Doctoral Consortium sessions: 
+- Doctoral papers submissions: 	June 7th, 2021
+- Doctoral papers acceptance notification: July 12th, 2021 
+- Doctoral papers camera-ready papers due: July 30th, 2021
+- Doctoral Consortium sessions: 25 October 2021
