@@ -18,8 +18,8 @@ class Keynote extends React.Component {
               <h1 style={{ color: "#2c4f90" }}>Keynotes</h1>
               <hr />
               <p style={{ fontSize: "17.8px" }}>
-                It is our honour to announce that our first two keynotes will be Dr. Richard Soley and Dr. Clemens
-                Szyperski. They plan to present their experience with and future thoughts about industry 4.0 themes, in
+                It is our honour to announce that our first two keynotes will be Dr. Richard Soley of OMG and Dr. Clemens
+                Szyperski of Microsoft. They plan to present their experience with and future thoughts about industry 4.0 themes, in
                 particular digital twins and highly scalable streaming analytics. Richard and Clemens were involved in
                 the inaugural EDOC'97 event and it is our particular pleasure to welcome them back for the EDOC's 25th
                 anniversary.
