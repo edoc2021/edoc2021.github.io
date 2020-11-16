@@ -13,7 +13,7 @@ class Workshops extends React.Component {
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Call for Workshops</h1>
+          <h1 style={{ color: "#2c4f90" }}>Call for Workshops Proposals</h1>
           <hr />
           <div
             dangerouslySetInnerHTML={{
@@ -32,8 +32,8 @@ export default Workshops
 
 export const query = graphql`
   query {
-    #    post: markdownRemark(frontmatter: {type: {eq: "workshops"}}) {
-    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "workshops"}}) {
+      #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html
     }

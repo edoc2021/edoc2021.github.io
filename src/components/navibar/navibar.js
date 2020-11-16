@@ -13,6 +13,7 @@ const Navibar = ({ sticky, location, title }) => {
                 width: "100%",
                 zIndex: 100
               }}>
+
         <Container>
           <Container fluid={true}>
             <Navbar.Brand as={Link} to="/EDOC2021">{title}</Navbar.Brand>

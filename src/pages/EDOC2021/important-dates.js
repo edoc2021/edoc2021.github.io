@@ -32,8 +32,8 @@ export default ImportantDates
 
 export const query = graphql`
   query {
-    #    post: markdownRemark(frontmatter: {type: {eq: "important-dates"}}) {
-    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "important-dates"}}) {
+      #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html
     }

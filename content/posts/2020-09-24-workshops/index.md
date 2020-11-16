@@ -2,7 +2,7 @@
 title: 'Committees'
 date: '2020-09-22T22:12:03.284Z'
 path: '/workshops/'
-type: workshops
+type: ignore
 ---
 
 The following workshops will be organised together with EDOC 2020:
