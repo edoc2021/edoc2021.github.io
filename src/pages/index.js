@@ -1,10 +1,13 @@
 import React from "react"
-import { Container } from "react-bootstrap"
 import { navigate } from "gatsby"
 
 class IndexPage extends React.Component {
-  render() {
+
+  componentDidMount() {
     navigate("/EDOC2021");
+  }
+
+  render() {
     return null
   }
 }
