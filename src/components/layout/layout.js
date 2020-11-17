@@ -49,7 +49,7 @@ class Layout extends React.Component {
         }
         render={data => (
           <div>
-            <Helmet title="EDOC2021" />
+            <Helmet title="EDOC2021 - The No1 Conference in Enterprise Computing" />
             <span className="logo">
               <Img fluid={data.fileName.childImageSharp.fluid} alt="" />
               {/*<Image src={headerImage} alt="" fluid />*/}
