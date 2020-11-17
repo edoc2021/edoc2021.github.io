@@ -4,7 +4,7 @@ import { navigate } from "gatsby"
 class IndexPage extends React.Component {
 
   componentDidMount() {
-    navigate("/EDOC2021");
+    navigate("/EDOC2021SUB");
   }
 
   render() {
