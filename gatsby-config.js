@@ -65,12 +65,10 @@ module.exports = {
     "gatsby-plugin-sass",
     `gatsby-plugin-catch-links`,
     {
-      resolve: `gatsby-plugin-google-gtag`,
+      resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingIds: [
-          `.env.${process.env.GA_MEASUREMENT_ID}`, // Google Analytics / GA
-        ],
-      },
+        trackingId: `${process.env.GA_TRACKING_ID}`,
+      }
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
