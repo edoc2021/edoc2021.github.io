@@ -1,3 +1,8 @@
+
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+});
+
 module.exports = {
   siteMetadata: {
     title: `EDOC2021`,
@@ -59,7 +64,15 @@ module.exports = {
       }
     },
     "gatsby-plugin-sass",
-    `gatsby-plugin-catch-links`
+    `gatsby-plugin-catch-links`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          `${process.env.GA_MEASUREMENT_ID}`, // Google Analytics / GA
+        ],
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

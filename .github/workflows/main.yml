@@ -14,4 +14,6 @@ jobs:
         with:
           access-token: ${{ secrets.EDOC2021_SECRET }}
           deploy-branch: master
+        env:
+          GA_MEASUREMENT_ID: ${{ secrets.GA_MEASUREMENT_ID }}
 
