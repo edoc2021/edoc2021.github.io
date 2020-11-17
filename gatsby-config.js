@@ -1,7 +1,7 @@
 
-require('dotenv').config({
+require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
-});
+})
 
 module.exports = {
   siteMetadata: {
@@ -69,7 +69,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingIds: [
-          `${process.env.GA_MEASUREMENT_ID}`, // Google Analytics / GA
+          `.env.${process.env.GA_MEASUREMENT_ID}`, // Google Analytics / GA
         ],
       },
     },
