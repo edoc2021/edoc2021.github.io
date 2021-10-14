@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(n,t,e){"use strict";e.r(t);var o=e("dI71"),r=e("q1tI"),i=e.n(r),u=e("Wbzz"),c=function(n){function t(){return n.apply(this,arguments)||this}Object(o.a)(t,n);var e=t.prototype;return e.componentDidMount=function(){Object(u.navigate)("https://ieee-edoc.org/2021/")},e.render=function(){return null},t}(i.a.Component);t.default=c}}]);
+//# sourceMappingURL=component---src-pages-404-js-45af170b253173ba1829.js.map
